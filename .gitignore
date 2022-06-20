@@ -186,3 +186,5 @@ replay_pid*
 
 *.vscode/*
 *.vscode/settings.json
+
+0x01/email/.vscode/settings.json
